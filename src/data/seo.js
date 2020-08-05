@@ -1,12 +1,12 @@
 const seo = {
-  TITLE: "Aman Mittal Portfolio",
-  AUTHOR: "Aman Mittal",
-  DESCRIPTION: "Portfolio Website",
+  TITLE: "Rafi activity log",
+  AUTHOR: "Rafi",
+  DESCRIPTION: "Makergram activity log",
   TYPE: "WEBSITE",
-  TWITTER_USERNAME: "@amanhimself",
-  URL: "www.amanhimself.me",
-  IMAGE_URL: "https://i.imgur.com/TLvcVR4.jpg",
-  DESCRIPTION: "Aman Mittal Portfolio"
+  TWITTER_USERNAME: "@rafitc99",
+  URL: "",
+  IMAGE_URL: "",
+  DESCRIPTION: "MakerGram Activity Log"
 };
 
 export default seo;

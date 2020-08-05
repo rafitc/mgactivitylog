@@ -1,18 +1,18 @@
 export const links = {
-  github: "https://github.com/amandeepmittal",
-  twitter: "https://twitter.com/amanhimself",
-  medium: "https://medium.com/@amanhimself",
-  email: "mailto:kristijan.mkd@gmail.com",
-  bookBlog: "https://amandeepmittal.wordpress.com"
+  portfolio: "https://rafirasheed.co",
+  twitter: "https://twitter.com/rafitc99",
+  medium: "http://makergram.com/community/user/rafitc99",
+  email: "mailto:mail@rafirasheed.co",
+  bookBlog: "https://makergram.com/blog/author/rafi/"
 };
 
 export const textLinks = [
   {
-    href: links.github,
-    title: "Developer"
+    href: links.portfolio,
+    title: "Portfolio"
   },
   {
     href: links.bookBlog,
-    title: "Book Critic/Blogger"
+    title: "Blog"
   }
 ];

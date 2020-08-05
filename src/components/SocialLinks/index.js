@@ -1,5 +1,5 @@
 import React from "react";
-import { FaMedium, FaEnvelope, FaTwitter, FaGithub } from "react-icons/lib/fa";
+import { FaEnvelope, FaTwitter, FaGithub } from "react-icons/lib/fa";
 
 import styles from "./socialLinksStyles.module.css";
 
@@ -8,23 +8,18 @@ const SocialLinks = () => {
     <div className={styles.socialLinks}>
       <ul>
         <li>
-          <a href="mailto:amanmittal.work@gmail.com">
+          <a href="mailto:mail@rafirasheed.co">
             <FaEnvelope />
           </a>
         </li>
         <li>
-          <a href="https://github.com/amandeepmittal">
+          <a href="https://github.com/rafitc">
             <FaGithub />
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/amanhimself">
+          <a href="https://twitter.com/rafitc99">
             <FaTwitter />
-          </a>
-        </li>
-        <li>
-          <a href="https://medium.com/@amanhimself">
-            <FaMedium />
           </a>
         </li>
       </ul>

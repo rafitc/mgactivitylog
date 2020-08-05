@@ -62,7 +62,7 @@ export const Section = styled.section`
 `;
 
 export const SectionTitle = styled.h3`
-  font-size: 35px;
+  font-size: 45px;
   font-weight: 100;
   margin: 0 0 10px 0;
   color: white;

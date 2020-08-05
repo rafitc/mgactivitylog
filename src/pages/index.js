@@ -31,11 +31,6 @@ const IndexPage = () => (
         <DevStack />
         <Technologies />
         <Projects />
-        <OpenSourceCommits />
-        <SideProjects />
-        <Blogs />
-        <Libraries />
-        <Interesting />
       </RightSideHome>
     </Sides>
   </div>
