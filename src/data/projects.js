@@ -4,7 +4,7 @@ export const projects = [
     date: "14-dec-2019",
     client:null,
     description:
-      "Kerala's biggest gathering of makers. Got an oppertuity to be a part of this hufe event as a volunteer. Also it was the first meeting with entire makergram team",
+      "Kerala's biggest gathering of makers. Got an oppertuity to be a part of this huge event as a volunteer. Also it was the first meeting with entire makergram team",
   },
   {
     title: "Onboard",
@@ -16,7 +16,7 @@ export const projects = [
     title: "Zoom Meeting",
     date: "04-jan-2020",
     client:null,
-    description:"First zoom meeting to review our e-mail setup with nice talks with colleague",
+    description:"First zoom meeting to review our e-mail setup and nice talks with colleague",
   },
   {
     title: "joined in OpenHack IoT team ",
